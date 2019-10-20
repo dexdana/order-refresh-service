@@ -1,5 +1,5 @@
 {
-  "name": "@forkdelta/order-refresh-service",
+  "name": "@dexdana/order-refresh-service",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
